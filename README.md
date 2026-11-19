@@ -77,8 +77,6 @@ The second model looks for panels inside that bogie and classifies their operati
   
 
 The project specification expects **two access panels per bogie**. The current Streamlit code records a panel-status label for each bogie; detailed per-panel discrepancy alerts can be added in the next iteration.
-<img width="2376" height="862" alt="final_detection" src="https://github.com/user-attachments/assets/7bc82f50-9ae5-4bc3-bfc4-f1bf77a2f90c" />
-
 
 ### Stage 3 — Suspension spring inspection
 
